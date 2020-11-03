@@ -1,0 +1,20 @@
+{
+  "name": "hdjesus-random-names",
+  "version": "1.0.0",
+  "description": "I randomly printed the names of Jesus Hernandez's main friends on the console.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Jesus Hernandez <hdmjesus@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
